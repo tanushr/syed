@@ -1,0 +1,35 @@
+dl203@user:~/AFSHANA$ python first.py
+welcome to python programming
+dl203@user:~/AFSHANA$ python second.py
+enter value for a14
+enter value for b12
+26
+dl203@user:~/AFSHANA$ python third.py
+enter value of a:17
+enter value of b:15
+(17, 'is greater than', 15)
+dl203@user:~/AFSHANA$ python fourth.py
+enter value for a7
+enter value for b8
+56
+dl203@user:~/AFSHANA$ python fifth.py
+enter the value of x14
+(14, 'is greater than 0,x is positive')
+dl203@user:~/AFSHANA$ python sixth.py
+enter the value of a:14
+enter the value of b:5
+enter the value of c:8
+(14, 'is greatest')
+dl203@user:~/AFSHANA$ python afsh.py
+1
+2
+3
+4
+5
+dl203@user:~/AFSHANA$ python reverse.py
+5
+4
+3
+2
+1
+
