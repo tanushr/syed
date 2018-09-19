@@ -1,5 +1,6 @@
 a=input("enter value of a:")
 b=input("enter value of b:")
+#checking the sign 
 if(a>b):
     print(a,"is greater than",b)
 elif(a==b):
