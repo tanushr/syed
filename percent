@@ -1,0 +1,32 @@
+dl203@user:~/AFSHANA$ python percent.py
+enter your marks obtained47
+fail
+dl203@user:~/AFSHANA$ 89
+89: command not found
+dl203@user:~/AFSHANA$ python percent.py
+enter your marks obtained47   
+fail
+dl203@user:~/AFSHANA$ clear
+
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained41
+fail
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained98
+Grade A+
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained87
+Grade A
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained78
+Grade B+
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained65
+Grade C+
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained58
+Grade C
+dl203@user:~/AFSHANA$ python3 percent.py
+enter your marks obtained100
+Grade A+
+
