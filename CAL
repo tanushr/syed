@@ -1,0 +1,23 @@
+def add(a,b):
+	return a+b
+def sub(a,b):
+	return a-b
+def mult(a,b):
+	return a*b
+def divide(a,b):
+	return a/b
+#calculator
+i=int(input("enter value of a"))
+j=int(input("enter value of b"))
+o=int(input("what do you want to do +,-,*,/"))
+
+
+if(o=="+"):
+	res=add(i,j)
+if(o=="-"):
+	res=sub(i,j)
+if(o=="*"):
+	res=multi(i,j)
+if(o=="/"):
+	res=divide(i,j)
+print(res)
