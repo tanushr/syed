@@ -22,11 +22,11 @@ o=int(input("what do you want to do +,-,*,/"))
 
 
 if(o=="+"):
-	res=add(i,j)
+	r=add(i,j)
 if(o=="-"):
-	res=sub(i,j)
+	r=sub(i,j)
 if(o=="*"):
-	res=multi(i,j)
+	r=multi(i,j)
 if(o=="/"):
-	res=divide(i,j)
-print(res)
+	r=divide(i,j)
+print(r)
