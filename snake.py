@@ -45,6 +45,9 @@ while (count<100):
 		elif(count==76):
 			count=97
 			print("climbs a ladder")
+		elif(count==100):
+			count=100
+			print("you won")
 		else:
 			break
 
