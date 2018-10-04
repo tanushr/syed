@@ -1,0 +1,5 @@
+dl203@rathore:~/AFSHANA$ python dic.py
+b
+dl203@rathore:~/AFSHANA$ python dic.py
+{1: 'b', 2: 'a', 3: 'r'}
+
