@@ -8,4 +8,4 @@ try:
 except sr.UnknownValueError:
 	print("Google speech recognition could not ")
 except sr.RequestError as e:
-	print("could not request results from google speech recognition service;{0}".format())
+	print("could not request results from google speech recognition service;{0}".forma)
