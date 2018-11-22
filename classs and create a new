@@ -1,0 +1,8 @@
+syed afshana
+dl-2
+('syed afshana', 'dl-2')
+dl223@soetcse:~/sython$ cat > dl2.txt
+hello
+good morningdl223@soetcse:~/sython$ cat  dl2.txt
+hello
+good morningdl223
