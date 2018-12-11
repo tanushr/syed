@@ -1,0 +1,31 @@
+Welcome to Hand Cricket Game
+enter value for the toss 6
+4
+player start playing
+enter value : 6
+ player score is 6
+computer hits 4
+enter value : 6
+ player score is 12
+computer hits 5
+enter value : 6
+ player score is 18
+computer hits 2
+enter value : 6
+ player score is 24
+computer hits 3
+enter value : 5
+ player score is 29
+computer hits 3
+enter value : 6
+ player score is 35
+computer hits 6
+player stops playing
+29
+enter value2
+computer hits 2
+computer score is 2
+player hits 2
+computer stops playing
+0
+player wins the game 29
